@@ -8,4 +8,4 @@ Java is a good programming language.
 
 Jerry Xie
 Computer Science
-Graduate Student in Illinos Institute of Technology 
+Graduate Student in Illinois Institute of Technology 
